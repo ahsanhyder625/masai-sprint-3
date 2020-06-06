@@ -18,4 +18,4 @@ function func()
 }
 
 
-document.getElementById('button1Id').addEventListener('click',func)
+document.getElementById('update').addEventListener('click',func)
