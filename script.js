@@ -1,0 +1,1 @@
+curl --location --request GET 'https://api.covid19api.com/summary'
